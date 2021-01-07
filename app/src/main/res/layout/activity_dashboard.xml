@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashboardActivity"
+    android:orientation="vertical"
+    android:padding="@dimen/size_10dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:text="@string/new_recipe"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/darker_gray"
+        android:onClick="newRecipe"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:text="@string/existing_recipe"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/darker_gray"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:text="@string/delete_recipe"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/darker_gray"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:text="@string/save_recipe"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/darker_gray"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:text="@string/close_back"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/darker_gray"
+        android:onClick="finishApp"/>
+
+</LinearLayout>

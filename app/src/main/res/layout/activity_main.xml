@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="@dimen/size_10dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:backgroundTint="@color/red"
+        android:text="@string/start"
+        android:onClick="startDashboard"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:layout_marginTop="@dimen/size_20dp"
+        android:layout_marginStart="@dimen/size_10dp"
+        android:layout_marginEnd="@dimen/size_10dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="@string/login_logout"
+        android:textColor="@color/white"
+        android:onClick="loginSignup"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:layout_marginTop="@dimen/size_10dp"
+        android:layout_marginStart="@dimen/size_10dp"
+        android:layout_marginEnd="@dimen/size_10dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="@string/change_password"
+        android:textColor="@color/white"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_50dp"
+        android:layout_marginTop="@dimen/size_10dp"
+        android:layout_marginStart="@dimen/size_10dp"
+        android:layout_marginEnd="@dimen/size_10dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="@string/user_info"
+        android:textColor="@color/white"/>
+
+
+</LinearLayout>

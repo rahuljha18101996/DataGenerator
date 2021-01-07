@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Data Generator</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+
+    <!-- Main Menu -->
+    <string name="start">Start</string>
+    <string name="user_info">USER LOGIN INFO</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="login_logout">LOGIN</string>
+
+    <!-- Dashboard Menu -->
+    <string name="new_recipe">New Recipe</string>
+    <string name="existing_recipe">Existing Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="close_back">close/Back</string>
+
+    <!-- New Recipe -->
+    <string name="product_id">Product #</string>
+    <string name="product_id_hint">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="operator">Operator</string>
+
+    <string name="deg_cel">°C</string>
+    <string name="min">min</string>
+    <string name="mt">mt</string>
+
+    <string name="freeze">freeze</string>
+    <string name="time">time</string>
+    <string name="final_freeze">final_freeze</string>
+
+    <string name="primary">Primary</string>
+    <string name="shelf_setpt">shelf setpt</string>
+    <string name="vacuum_setpt">vacuum setpt</string>
+
+    <string name="secondary">secondary</string>
+
+    <string name="_final">final</string>
+    <string name="final_setpt">final setpt</string>
+    <string name="alarms">alarms</string>
+    <string name="cond_overload">cond overload</string>
+    <string name="vacuum_overload">vacuum overload</string>
+    <string name="power_outage">power outage</string>
+    <string name="temp_high_alarm_deadband">temp high alarm deadband</string>
+    <string name="temp_low_alarm_deadband">temp low alarm deadband</string>
+    <string name="vacuum_high_alarm_deadband">vacuum high alarm deadband</string>
+    <string name="vacuum_low_alarm_deadband">vacuum low alarm deadband</string>
+
+    <string name="pre_cooling_enabled">pre-cooling enabled</string>
+    <string name="no">no</string>
+    <string name="pre_cooling_setpoint">pre-cooling setpoint</string>
+
+    <string name="batch_report_number">batch report number</string>
+    <string name="trail_batch_sevelamer_carbonate">trail batch sevelamer carbonate</string>
+
+    <string name="extra_freeze_time">extra freeze time</string>
+    <string name="primary_vacuum_start">primary vacuum start</string>
+
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+</resources>

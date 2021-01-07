@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432475496903",
+    "project_id": "data-generator-8c22b",
+    "storage_bucket": "data-generator-8c22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432475496903:android:fca74ed2010665053e79e2",
+        "android_client_info": {
+          "package_name": "com.arizon.datagenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432475496903-cfgm1gdk7co6nertgjaa20glluscq2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhK-xNXQgrNJ1C46cJaiUysMyUU2xrIEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432475496903-cfgm1gdk7co6nertgjaa20glluscq2gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
